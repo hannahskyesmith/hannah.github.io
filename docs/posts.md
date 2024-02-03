@@ -2,7 +2,7 @@
 layout: page
 title: Posts
 pagination:
-  enabled: true
+  enabled: false
 ---
 
 {% include postlist.html %}
