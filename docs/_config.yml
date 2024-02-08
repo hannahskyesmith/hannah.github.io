@@ -6,25 +6,25 @@ url: https://www.hannahskyesmith.com
 remote_theme: piazzai/cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Urban Planning and Design 
+tagshort: Urban Planning and Design
 
 # author settings
 author:
   name: Hannah Skye Smith
-  email: username@domain.com
+  email: hannahskyesmith
 photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+address: Salt Lake City
+phone: +1 801 971 1925
 
 # social media links
 social:
-  facebook: username
-  github: hannahskyesmith
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  x: username
+  
+ 
+
+  linkedin: hannahskyesmith
+
+  
 
 # build settings
 permalink: pretty
