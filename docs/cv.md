@@ -22,14 +22,15 @@ Bachelor's of Science, Urban Ecology
 ### Agricultural Work Exchange
 **The Redlock Farm, Zeeland, Netherlands**  
 - Created greenhouse and vegetable plot plans using companion planting techniques to promote natural pest control and soil health
-- Designed and constructed greenhouse interior for optimal planting area, ergonomic circulation, and sustainable drip-irrigation system.
+- Designed and constructed greenhouse interior for optimal planting area, ergonomic circulation, and sustainable drip-irrigation system
 
 
 ### Supervisor, Guest Experience
-**Tracy Aviary, Urban Botanical Garden with over 300 birds & Conservation Non-Profit**  
+**Tracy Aviary
+Urban Botanical Garden home to over 300 birds & Conservation Non-Profit**  
 - Delegated staff of 20 employees
 - Trained all new employees in customer service skills and quality coffee beverages
-- Coordinated efficient staff workflow.
+- Coordinated efficient staff workflow
 
 
 ### Resident Advisor, Student Leader Council Director, Resident Relations & Advocacy Board Director
@@ -50,11 +51,13 @@ Bachelor's of Science, Urban Ecology
 - Python
 - Linux
 - Matlab 
+
 ### Interpersonal
 - Community outreach
 - Conflict mediation
 - Teamwork
 - Delegation
+
 ### Research
 - Literature review
 - Technical writing
