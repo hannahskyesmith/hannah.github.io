@@ -7,7 +7,7 @@ title: Work Sample
 
 Work samples coming soon.
 
-{%include pdf.html}
+{% include pdf.html %}
 
 
 
