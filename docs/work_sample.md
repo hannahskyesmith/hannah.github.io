@@ -1,11 +1,10 @@
 ---
-layout: cv
-title: CV
+layout: default
+title: Work Sample
 ---
 
 # Work Sample
 
-{% include contact.html %}
-
+Place to include sample of work.
 
 
