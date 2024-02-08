@@ -5,6 +5,6 @@ title: Work Sample
 
 # Work Sample
 
-Place to include sample of work.
+Work samples coming soon.
 
 
