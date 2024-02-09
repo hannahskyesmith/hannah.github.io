@@ -5,7 +5,9 @@ title: Work Sample
 
 # Work Samples
 
-Below is a graphic portfolio from Fall 2023.
+Below is a graphic portfolio from Fall 2023. 
+
+If portfolio displays improperly download [here.](assets/files/portfolio.pdf)
 
 {% include pdf.html %}
 
