@@ -45,12 +45,15 @@ Urban Botanical Garden home to over 300 birds & Conservation Non-Profit**
 ## Skills
 
 ### Software
-- Adobe Creative (5 years experience)
-- Microsoft Office Suite
+- Adobe Creative
+- ArcGIS
+- AutoCad
 - Exploratory
-- Python
 - Linux
-- Matlab 
+- Microsoft Office Suite
+- Matlab
+- OpenStreetMaps
+- Python
 
 ### Interpersonal
 - Community outreach
